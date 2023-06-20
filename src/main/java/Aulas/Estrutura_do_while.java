@@ -1,6 +1,5 @@
 package Aulas;
 
-import java.util.Arrays;
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -19,19 +18,6 @@ public class Estrutura_do_while {
             resp = sc.next().charAt(0);
 
         } while (resp != 'n');
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         sc.close();
     }
